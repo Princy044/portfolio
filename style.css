@@ -1,0 +1,125 @@
+body {
+    text-align: center;
+    background: linear-gradient(to bottom, #ccffff 0%, #ccffcc 64%);
+    
+}
+
+#welcome {
+    text-align: center;
+    font-family: fantasy;
+    color: paleturquoise;
+    background: linear-gradient(to left, #666699 0%, #003366 64%);
+    font-size: 35px;
+
+}
+#port {
+    font-size: 15px;
+    text-align: center;
+    font-family: 'lemonada';
+    color: white;
+}
+
+#profile {
+    width: 250px;
+    height: 270px;
+    border-radius: 50%;
+}
+
+#Apps {
+    text-align: center;
+    
+
+    font-size: 30px;
+}
+.intro {
+    text-align: center !important;
+    font-family: 'Lemonada';
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 15px !important;
+}
+
+.line {
+    height: 6px;
+    width: 150px;
+    top: 0px;
+
+    background-color: black;
+    margin-top: -10px;
+
+}
+
+#heading {
+    font-size: 50px;
+    color: white;
+    font-family: 'lobster';
+}
+
+img {
+    width: 350px;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#Games {
+    text-align: center;
+
+    font-size: 30px;
+}
+
+#shapes {
+    text-align: center;
+
+    font-size: 30px;
+}
+
+#Chatbot {
+    text-align: center;
+
+    font-size: 30px;
+}
+
+.order {
+    list-style:none;
+    background: white;
+    width: 100%;
+    position: fixed;
+   margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+}
+#top{
+    background-color: white !important;
+    width:600px;
+}
+.links {
+    display: inline;
+
+    color: red;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-left: 25px;
+    padding-right: 32px;
+}
+
+.links:hover {
+    background-color: coral;
+}
+
+html {
+    scroll-behavior: smooth;
+  
+}
+a {
+    
+    color: red;
+}
+a:hover {
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+}
